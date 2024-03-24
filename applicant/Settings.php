@@ -45,15 +45,15 @@ if (!(isset($_SESSION['AccountID']) && isset($_SESSION['UserID']) && $_SESSION['
               <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar nav me-auto mb-2 mb-lg-0">
                 <li>
-                    <a href="/applicant/Landing_Page.html" class="logo">
+                    <a href="/applicant/Landing_Page_1.html" class="logo">
                       <img src="../assets/img/JapanJobs.png" alt="navbar brand">
                     </a>
                 </li>
                   <li class="nav-item">
-                    <a class="nav-link text-white" href="/applicant/Landing_Page.html">Home</a>
+                    <a class="nav-link text-white" href="/applicant/Landing_Page_1.html">Home</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link text-white" href="/applicant/profile.php">Pofile</a>
+                    <a class="nav-link text-white" href="/applicant/profile.html">Pofile</a>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link text-white" href="/applicant/about_us.html">About Us</a>
@@ -77,7 +77,7 @@ if (!(isset($_SESSION['AccountID']) && isset($_SESSION['UserID']) && $_SESSION['
                       <div class="avatar-lg"><img src="../assets/img/icon.png" alt="image profile" class="avatar-img rounded"></div>
                       <div class="u-text">
                         <h4>Meow</h4>
-                        <p class="text-muted">Genesis.com</p><a href="/applicant/profile.php" class="btn btn-xs btn-secondary btn-sm">View Profile</a>
+                        <p class="text-muted">Genesis.com</p><a href="/applicant/profile.html" class="btn btn-xs btn-secondary btn-sm">View Profile</a>
                       </div>
                     </div>
                   </li>

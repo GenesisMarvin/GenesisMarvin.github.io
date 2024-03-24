@@ -34,7 +34,7 @@
     
     <nav class="navbar navbar-expand-sm">
       <div class="container-fluid">
-        <a class="navbar-brand font-RR text-white" href="/FILES-Applicant Side/Landing_Page.html">
+        <a class="navbar-brand font-RR text-white" href="/applicant/Landing_Page_1.html">
         <img src="../assets/img/JapanJobs.png" alt="logo" style="width:80px;"></a>
       </div>
     </nav>
